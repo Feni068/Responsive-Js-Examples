@@ -387,3 +387,7 @@ hr{
         margin-bottom: 30px;
     }
 }
+
+.uppercase-rr {
+    text-transform: uppercase;
+}
